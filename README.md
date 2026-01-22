@@ -1,6 +1,7 @@
-# AI-Powered Lease Document Q&A System (RAG)
-
+# AI-Powered Document Q&A System (RAG)
+(Demonstrated using lease and real-estate documents)
 This project is a lightweight, local **Retrieval-Augmented Generation (RAG)** system designed to answer questions from lease and real-estate-related documents **strictly using the content of the document**.
+While this project demonstrates the system using lease and real estate documents, the underlying architecture is domain-agnostic and can be applied to any unstructured document such as contracts, policies, SOPs, or reports.
 
 The goal of this project was to build a foundational understanding of:
 - Embeddings
@@ -108,3 +109,4 @@ All components run **locally**, with no external APIs.
 ## 📬 About This Project
 
 This project was built as part of a focused learning journey into AI and RAG systems, with an emphasis on **understanding fundamentals rather than using high-level frameworks**.
+
